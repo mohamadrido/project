@@ -1,0 +1,13 @@
+name: 'Public Domain Models'
+description: 'Free 3D Models under Public Domain'
+author: 'Mohamad Rido'
+email: 'publicdomainmodels@yandex.com'
+permalink: /:title
+plugin:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+markdown: kramdown
+highlighter: rouge
+paginate: 15
