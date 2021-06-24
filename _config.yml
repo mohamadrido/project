@@ -1,5 +1,5 @@
 name: 'Public Domain Models'
-description: 'Free 3D Models under Public Domain'
+description: 'Free CC0 3D Models & Public Domain 3D Game Assets'
 author: 'Mohamad Rido'
 email: 'publicdomainmodels@yandex.com'
 permalink: /:title
@@ -10,4 +10,4 @@ plugin:
   - jekyll-seo-tag
 markdown: kramdown
 highlighter: rouge
-paginate: 9
+paginate: 15
