@@ -3,7 +3,7 @@ layout: default
 ---
 <article>
 {% if page.image %} 
-<img style="width: 100%; border-radius: 5px;" src="{{ page.image }}">
+<img alt="Free 3D {{ post.title }}" style="width: 100%; border-radius: 5px;" src="{{ page.image }}">
 {% endif %}
 <h2>{{page.title}}</h2>
 {% unless page.metadate == "hide" %} 
