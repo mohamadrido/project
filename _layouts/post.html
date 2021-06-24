@@ -3,7 +3,7 @@ layout: default
 ---
 <article>
 {% if page.image %} 
-<img alt="Free 3D {{ post.title }}" style="width: 100%; border-radius: 5px;" title="Free 3D {{ post.title }}" src="{{ page.image }}">
+<img alt="Free 3D {{ page.title }}" style="width: 100%; border-radius: 5px;" title="Free 3D {{ page.title }}" src="{{ page.image }}">
 {% endif %}
 <h2>{{page.title}}</h2>
 {% unless page.metadate == "hide" %} 
@@ -88,7 +88,7 @@ HDRI <i style="color: #6c757d;">{{page.environment}}</i> {{page.hdri}}<br />
     <div class="card">
           <a href="{{ site.baseurl }}{{ post.url }}">
               <div class="rel">
-                <img width="100%" src="{{post.image}}">
+                <img alt="Free 3D {{ page.title }}" width="100%" title="Free 3D {{ page.title }}" src="{{post.image}}">
                 <h3>{{ post.title }}</h3>
               </div>
           </a>
