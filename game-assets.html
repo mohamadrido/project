@@ -2,7 +2,7 @@
 layout: default
 title: Game Assets
 ---
-{% for models in site.categories %}
+{% for tag in post.tags.supercar %}
 <h2>{{models[0] | capitalize}}</h2>
 <div class="row">
 {% for post in models[1] %}
