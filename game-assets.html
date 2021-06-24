@@ -5,3 +5,12 @@ title: Game Assets
 {% for post in site.tags.supercar %}
 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
+<br/>
+{% for post in site.categories.supercar %}
+<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+<br/>
+testz
+{% for post in site.models.supercar %}
+<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
