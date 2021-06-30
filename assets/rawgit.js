@@ -556,3 +556,6 @@ function tiles030_texture(){window.open('https://ambientcg.com/view?id=Tiles030'
 function wood030_texture(){window.open('https://ambientcg.com/view?id=Wood030');}
 function woodfloor008_texture(){window.open('https://ambientcg.com/view?id=WoodFloor008');}
 function _texture(){window.open('https://ambientcg.com/view?id=');}
+/*! Public Domain Models - Free CC0 3D Models & Public Domain 3D Game Assets | https://publicdomainmodels.com/license */
+function appleleaf2d_texture(){window.open('https://github.com/publicdomainmodels/archive/raw/main/appleleaf2d.zip');}
+function _texture(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
