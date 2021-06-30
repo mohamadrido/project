@@ -78,6 +78,12 @@ function oreo_obj(){window.open('https://github.com/publicdomainmodels/archive/r
 function oreo_3ds(){window.open('https://github.com/publicdomainmodels/archive/raw/main/oreo-3ds.zip');}
 function oreo_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/oreo-dae.zip');}
 function oreo_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/oreo-stl.zip');}
+function apple_tree_blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/apple-tree.zip');}
+function apple_tree_fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/apple-tree-fbx.zip');}
+function apple_tree_obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/apple-tree-obj.zip');}
+function apple_tree_3ds(){window.open('https://github.com/publicdomainmodels/archive/raw/main/apple-tree-3ds.zip');}
+function apple_tree_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/apple-tree-dae.zip');}
+function apple_tree_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/apple-tree-stl.zip');}
 function _blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
