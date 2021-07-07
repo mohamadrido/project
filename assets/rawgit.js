@@ -114,6 +114,12 @@ function steel_locker_obj(){window.open('https://github.com/publicdomainmodels/a
 function steel_locker_3ds(){window.open('https://github.com/publicdomainmodels/archive/raw/main/steel-locker-3ds.zip');}
 function steel_locker_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/steel-locker-dae.zip');}
 function steel_locker_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/steel-locker-stl.zip');}
+function street_lamp_blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/street-lamp.zip');}
+function street_lamp_fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/street-lamp-fbx.zip');}
+function street_lamp_obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/street-lamp-obj.zip');}
+function street_lamp_3ds(){window.open('https://github.com/publicdomainmodels/archive/raw/main/street-lamp-3ds.zip');}
+function street_lamp_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/street-lamp-dae.zip');}
+function street_lamp_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/street-lamp-stl.zip');}
 function _blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
