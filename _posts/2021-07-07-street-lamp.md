@@ -1,8 +1,8 @@
 ---
 title:  "Street Lamp"
 metadate: "hide"
-categories: [ Houseware ]
-tags: [ cabinet ]
+categories: [ Architecture ]
+tags: [ lamp ]
 image: "/assets/images/street-lamp.jpg"
 object: "Street Lamp"
 geometry: "Subdivision-ready"
