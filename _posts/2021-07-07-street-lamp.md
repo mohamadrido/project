@@ -3,7 +3,7 @@ title:  "Street Lamp"
 metadate: "hide"
 categories: [ Houseware ]
 tags: [ cabinet ]
-image: "/assets/images/steel-locker.jpg"
+image: "/assets/images/street-lamp.jpg"
 object: "Street Lamp"
 geometry: "Subdivision-ready"
 vertices: "5,128"
