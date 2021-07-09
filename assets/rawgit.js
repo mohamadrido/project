@@ -120,6 +120,12 @@ function street_lamp_obj(){window.open('https://github.com/publicdomainmodels/ar
 function street_lamp_3ds(){window.open('https://github.com/publicdomainmodels/archive/raw/main/street-lamp-3ds.zip');}
 function street_lamp_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/street-lamp-dae.zip');}
 function street_lamp_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/street-lamp-stl.zip');}
+function legacy_sr2_xhd_prime_blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/legacy-sr2-xhd-prime.zip');}
+function legacy_sr2_xhd_prime_fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/legacy-sr2-xhd-prime-fbx.zip');}
+function legacy_sr2_xhd_prime_obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/legacy-sr2-xhd-prime-obj.zip');}
+function legacy_sr2_xhd_prime_3ds(){window.open('https://github.com/publicdomainmodels/archive/raw/main/legacy-sr2-xhd-prime-3ds.zip');}
+function legacy_sr2_xhd_prime_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/legacy-sr2-xhd-prime-dae.zip');}
+function legacy_sr2_xhd_prime_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/legacy-sr2-xhd-prime-stl.zip');}
 function _blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
