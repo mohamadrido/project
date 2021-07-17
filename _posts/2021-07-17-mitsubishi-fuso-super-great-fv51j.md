@@ -1,6 +1,6 @@
 2021-07-17-mitsubishi-fuso-super-great-fv51j.md
 ---
-title:  "Mitsubishi Fuso Super Great FV-R 2013"
+title:  "Mitsubishi Fuso Super Great FV51J 2008"
 metadate: "hide"
 categories: [ Vehicle ]
 tags: [ truck ]
