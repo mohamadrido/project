@@ -1,0 +1,30 @@
+2021-07-17-mitsubishi-fuso-super-great-fv51j.md
+---
+title:  "Mitsubishi Fuso Super Great FV-R 2013"
+metadate: "hide"
+categories: [ Vehicle ]
+tags: [ truck ]
+image: "/assets/images/mitsubishi-fuso-super-great-fv51j.jpg"
+object: "Mitsubishi Fuso Super Great FV51J 2008 (Exterior Only)"
+geometry: "Subdivision-ready"
+vertices: "342,172"
+uvunwrapped: "Yes"
+animated: "No"
+software: "Blender 2.79b"
+rigged: "No"
+engine: "Cycles Render (1080 Samples)"
+gameready: "N/A"
+3dprintableready: "N/A"
+admin: "<a href='/about'>Mohamad Rido</a>"
+blend: "<a title='Object' href='' onclick='mitsubishi_fuso_super_great_fv51j_blend()' >.zip 13.8 MB</a>"
+dae: "<a title='Object' href='' onclick='mitsubishi_fuso_super_great_fv51j_dae()' >.zip 8.0 MB</a>"
+3ds: "%r can't be written"
+fbx: "<a title='Object' href='' onclick='mitsubishi_fuso_super_great_fv51j_fbx()' >.zip 12.1 MB</a>"
+obj: "<a title='Object' href='' onclick='mitsubishi_fuso_super_great_fv51j_obj()' >.zip 7.4 MB</a>"
+stl: "<a title='Object' href='' onclick='mitsubishi_fuso_super_great_fv51j_stl()' >.zip 12.1 MB</a>"
+texture: "<a title='Texture' href='' onclick='fabric004_texture()' >Fabric004</a>"
+hdri: "No"
+imagetexture: ".jpg"
+environment: ".hdr"
+notice: "-"
+---
