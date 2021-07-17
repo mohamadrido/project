@@ -1,5 +1,5 @@
 ---
-title:  "Legacy SR2 XHD PRIME"
+title:  "Legacy SR2 XHD PRIME 2018"
 metadate: "hide"
 categories: [ Vehicle ]
 tags: [ bus ]
