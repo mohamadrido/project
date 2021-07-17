@@ -126,6 +126,11 @@ function legacy_sr2_xhd_prime_obj(){window.open('https://github.com/publicdomain
 function legacy_sr2_xhd_prime_3ds(){window.open('https://github.com/publicdomainmodels/archive/raw/main/legacy-sr2-xhd-prime-3ds.zip');}
 function legacy_sr2_xhd_prime_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/legacy-sr2-xhd-prime-dae.zip');}
 function legacy_sr2_xhd_prime_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/legacy-sr2-xhd-prime-stl.zip');}
+function mitsubishi_fuso_super_great_fv51j_blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/mitsubishi-fuso-super-great-fv51j.zip');}
+function mitsubishi_fuso_super_great_fv51j_fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/mitsubishi-fuso-super-great-fv51j-fbx.zip');}
+function mitsubishi_fuso_super_great_fv51j_obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/mitsubishi-fuso-super-great-fv51j-obj.zip');}
+function mitsubishi_fuso_super_great_fv51j_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/mitsubishi-fuso-super-great-fv51j-dae.zip');}
+function mitsubishi_fuso_super_great_fv51j_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/mitsubishi-fuso-super-great-fv51j-stl.zip');}
 function _blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
