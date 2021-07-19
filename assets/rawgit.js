@@ -131,6 +131,11 @@ function mitsubishi_fuso_super_great_fv51j_fbx(){window.open('https://github.com
 function mitsubishi_fuso_super_great_fv51j_obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/mitsubishi-fuso-super-great-fv51j-obj.zip');}
 function mitsubishi_fuso_super_great_fv51j_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/mitsubishi-fuso-super-great-fv51j-dae.zip');}
 function mitsubishi_fuso_super_great_fv51j_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/mitsubishi-fuso-super-great-fv51j-stl.zip');}
+function mitsubishi_colt_diesel_fe_101_blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/mitsubishi-colt-diesel-fe-101.zip');}
+function mitsubishi_colt_diesel_fe_101_fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/mitsubishi-colt-diesel-fe-101-fbx.zip');}
+function mitsubishi_colt_diesel_fe_101_obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/mitsubishi-colt-diesel-fe-101-obj.zip');}
+function mitsubishi_colt_diesel_fe_101_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/mitsubishi-colt-diesel-fe-101-dae.zip');}
+function mitsubishi_colt_diesel_fe_101_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/mitsubishi-colt-diesel-fe-101-stl.zip');}
 function _blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
