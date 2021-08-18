@@ -136,6 +136,12 @@ function mitsubishi_colt_diesel_fe_101_fbx(){window.open('https://github.com/pub
 function mitsubishi_colt_diesel_fe_101_obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/mitsubishi-colt-diesel-fe-101-obj.zip');}
 function mitsubishi_colt_diesel_fe_101_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/mitsubishi-colt-diesel-fe-101-dae.zip');}
 function mitsubishi_colt_diesel_fe_101_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/mitsubishi-colt-diesel-fe-101-stl.zip');}
+function koenigsegg_agera_blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/koenigsegg-agera.zip');}
+function koenigsegg_agera_fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/koenigsegg-agera-fbx.zip');}
+function koenigsegg_agera_obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/koenigsegg-agera-obj.zip');}
+function koenigsegg_agera_3ds(){window.open('https://github.com/publicdomainmodels/archive/raw/main/koenigsegg-agera-3ds.zip');}
+function koenigsegg_agera_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/koenigsegg-agera-dae.zip');}
+function koenigsegg_agera_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/koenigsegg-agera-stl.zip');}
 function _blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
