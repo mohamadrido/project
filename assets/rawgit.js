@@ -11,7 +11,7 @@ function koenigsegg_regera_obj(){window.open('https://github.com/publicdomainmod
 function koenigsegg_regera_3ds(){window.open('https://github.com/publicdomainmodels/archive/raw/main/koenigsegg-regera-3ds.zip');}
 function koenigsegg_regera_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/koenigsegg-regera-dae.zip');}
 function koenigsegg_regera_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/koenigsegg-regera-stl.zip');}
-function koenigsegg_agera_rs_blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/koenisegg-agera-rs.zip');}
+function koenigsegg_agera_rs_blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/koenigsegg-agera-rs.zip');}
 function koenigsegg_agera_rs_fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/koenigsegg-agera-rs-fbx.zip');}
 function koenigsegg_agera_rs_obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/koenigsegg-agera-rs-obj.zip');}
 function koenigsegg_agera_rs_3ds(){window.open('https://github.com/publicdomainmodels/archive/raw/main/koenigsegg-agera-rs-3ds.zip');}
