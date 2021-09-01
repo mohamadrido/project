@@ -142,6 +142,16 @@ function koenigsegg_agera_obj(){window.open('https://github.com/publicdomainmode
 function koenigsegg_agera_3ds(){window.open('https://github.com/publicdomainmodels/archive/raw/main/koenigsegg-agera-3ds.zip');}
 function koenigsegg_agera_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/koenigsegg-agera-dae.zip');}
 function koenigsegg_agera_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/koenigsegg-agera-stl.zip');}
+function bitcoin_blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/bitcoin.zip');}
+function bitcoin_fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/bitcoin-fbx.zip');}
+function bitcoin_obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/bitcoin-obj.zip');}
+function bitcoin_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/bitcoin-dae.zip');}
+function bitcoin_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/bitcoin-stl.zip');}
+function ethereum_blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/ethereum.zip');}
+function ethereum_fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/ethereum-fbx.zip');}
+function ethereum_obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/ethereum-obj.zip');}
+function ethereum_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/ethereum-dae.zip');}
+function ethereum_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/ethereum-stl.zip');}
 function _blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
