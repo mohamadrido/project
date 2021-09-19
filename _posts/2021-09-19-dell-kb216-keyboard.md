@@ -21,7 +21,7 @@ dae: "<a title='Object' href='' onclick='dell_kb216_keyboard_dae()' >.zip 12.0 M
 fbx: "<a title='Object' href='' onclick='dell_kb216_keyboard_fbx()' >.zip 16.3 MB</a>"
 obj: "<a title='Object' href='' onclick='dell_kb216_keyboard_obj()' >.zip 13.0 MB</a>"
 stl: "<a title='Object' href='' onclick='dell_kb216_keyboard_stl()' >.zip 19.9 MB</a>"
-texture: "No"
+texture: "<a title='Texture' href='' onclick='plastic004_texture()' >Plastic004</a>"
 hdri: "No"
 imagetexture: ".jpg"
 environment: ".hdr"
