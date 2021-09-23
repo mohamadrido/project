@@ -627,6 +627,7 @@ function terrazzo004_texture(){window.open('https://ambientcg.com/view?id=Terraz
 function terrazzo007_texture(){window.open('https://ambientcg.com/view?id=Terrazzo007');}
 function plastic004_texture(){window.open('https://ambientcg.com/view?id=Plastic004');}
 function metal011_texture(){window.open('https://ambientcg.com/view?id=Metal011');}
+function metal029_texture(){window.open('https://ambientcg.com/view?id=Metal029');}
 function plastic005_texture(){window.open('https://ambientcg.com/view?id=Plastic005');}
 function fabric030_texture(){window.open('https://ambientcg.com/view?id=Fabric030');}
 function wood025_texture(){window.open('https://ambientcg.com/view?id=Wood025');}
