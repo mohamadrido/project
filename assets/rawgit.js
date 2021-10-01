@@ -168,6 +168,12 @@ function ice_cream_obj(){window.open('https://github.com/publicdomainmodels/arch
 function ice_cream_3ds(){window.open('https://github.com/publicdomainmodels/archive/raw/main/ice-cream-3ds.zip');}
 function ice_cream_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/ice-cream-dae.zip');}
 function ice_cream_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/ice-cream-stl.zip');}
+function chairs_blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/chairs.zip');}
+function chairs_fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/chairs-fbx.zip');}
+function chairs_obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/chairs-obj.zip');}
+function chairs_3ds(){window.open('https://github.com/publicdomainmodels/archive/raw/main/chairs-3ds.zip');}
+function chairs_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/chairs-dae.zip');}
+function chairs_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/chairs-stl.zip');}
 function _blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
@@ -639,6 +645,7 @@ function roofingtiles001_texture(){window.open('https://ambientcg.com/view?id=Ro
 function rock023_texture(){window.open('https://ambientcg.com/view?id=Rock023');}
 function tiles030_texture(){window.open('https://ambientcg.com/view?id=Tiles030');}
 function wood030_texture(){window.open('https://ambientcg.com/view?id=Wood030');}
+function wood032_texture(){window.open('https://ambientcg.com/view?id=Wood032');}
 function woodfloor008_texture(){window.open('https://ambientcg.com/view?id=WoodFloor008');}
 function _texture(){window.open('https://ambientcg.com/view?id=');}
 /*! Public Domain Models - Free CC0 3D Models & Public Domain 3D Game Assets | https://publicdomainmodels.com/license */
