@@ -192,6 +192,12 @@ function apple_tree003_obj(){window.open('https://github.com/publicdomainmodels/
 function apple_tree003_3ds(){window.open('https://github.com/publicdomainmodels/archive/raw/main/apple-tree003-3ds.zip');}
 function apple_tree003_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/apple-tree003-dae.zip');}
 function apple_tree003_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/apple-tree003-stl.zip');}
+function rubber_ducky_blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/rubber-ducky.zip');}
+function rubber_ducky_fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/rubber-ducky-fbx.zip');}
+function rubber_ducky_obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/rubber-ducky-obj.zip');}
+function rubber_ducky_3ds(){window.open('https://github.com/publicdomainmodels/archive/raw/main/rubber-ducky-3ds.zip');}
+function rubber_ducky_dae(){window.open('https://github.com/publicdomainmodels/archive/raw/main/rubber-ducky-dae.zip');}
+function rubber_ducky_stl(){window.open('https://github.com/publicdomainmodels/archive/raw/main/rubber-ducky-stl.zip');}
 function _blend(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _fbx(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
 function _obj(){window.open('https://github.com/publicdomainmodels/archive/raw/main/.zip');}
