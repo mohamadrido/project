@@ -1,7 +1,7 @@
 ---
 title:  "Steel Locker"
 metadate: "hide"
-categories: [ Houseware ]
+categories: [ Furniture ]
 tags: [ cabinet ]
 image: "/assets/images/steel-locker.jpg"
 object: "Steel Locker"
