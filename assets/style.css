@@ -62,6 +62,27 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   float: right;
 }
 
+.ver {
+  font-size: 10px;
+  text-decoration: none;
+}
+.ver button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 5px 15px;
+  color: #dedede;
+  background-color: #dc143c;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 3px;
+}
+.ver button:hover {
+  background-color: #008080;
+  color: #fff;
+  border-radius: 3px;
+}
+
 /* Responsive columns */
 @media screen and (max-width: 900px) {
   .column {
