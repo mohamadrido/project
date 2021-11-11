@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   float: right;
 }
 
-.ver {
+.ver a {
   font-size: 10px;
   text-decoration: none;
   color: #fff;
@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   cursor: pointer;
   border-radius: 3px;
 }
-.ver :hover {
+.ver a:hover {
   font-size: 10px;
   text-decoration: none;
   background-color: #000;
