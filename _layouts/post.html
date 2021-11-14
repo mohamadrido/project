@@ -3,9 +3,9 @@ layout: default
 ---
 <article>
 {% if page.image %} 
-<img alt="Free 3D {{ post.title }}" style="width: 100%; border-radius: 5px;" title="Free 3D {{ post.title }}" src="{{ page.image }}">
+<img alt="Free 3D {{ page.title }}" style="width: 100%; border-radius: 5px;" title="Free 3D {{ page.title }}" src="{{ page.image }}">
 {% endif %}
-<h2>{{post.title}}</h2>
+<h2>{{page.title}}</h2>
 {% unless page.metadate == "hide" %} 
 {{ page.date | date: '%B %d, %Y' }} 
 {% endunless %}
@@ -102,4 +102,16 @@ HDRI <i style="color: #6c757d;">{{page.environment}}</i> {{page.hdri}}<br />
     {% endif %}
   {% endfor %}
 <div class="row"></div>
+  <div>
+  <h1>Articles tagged with ""</h1>
+  <ul style='padding-top: 16px;'>
+  
+  {% for post in site.posts %}
+    {% if post.tags contains page.tag-name %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a>, published {{ post.date | date: "%Y-%m-%d" }}</li>
+    {% endif %}
+  {% endfor %}
+  
+  </ul>
+</div>
 </article>
